@@ -15,7 +15,7 @@ p {
     width: 90%;
     margin-top: 10rem;
     margin-bottom: auto;
-    margin-left: 10rem;
+    margin-left: auto;
     margin-right: auto;
 }
 
@@ -61,11 +61,10 @@ img {
         border-bottom-left-radius: 5px;  
     }
 
-    .stats {
+    li{
         display: inline-block;
-        width: 32%;
-        color: hsla(0, 0%, 100%, 0.75);
-    }
+        width: 30%;
+    } 
 
 }
 
@@ -100,28 +99,38 @@ img {
 
 }
 
-strong {
-    font-size: 1.4rem;
-    color: hsl(0, 0%, 100%);
-}
-
 a {
     color: hsl(277, 64%, 61%);
 }
 
 .content {
-    padding: 2rem;
+    padding: 3rem;
 }
 
-.stats-container {
+ul{
+    list-style: none;
+}
+
+li{
+    padding-bottom: 1rem;
+}
+
+.stats-preview {
     margin-top: 2rem;
     text-align: center;
+    margin-right: 2rem;
 }
 
-.stats p {
+.stat-number{
+    font-size: 1.4rem;
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+} 
+
+.stat-name{
+    font-size: 0.9rem;
     color: hsla(0, 0%, 100%, 0.6);
-    margin-top: -1px;
-    
+    margin-top: -1px;  
 }
 
 footer {

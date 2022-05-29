@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-## Welcome! 👋
+## Hello! 👋
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -17,8 +17,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Link to solution](https://your-solution-url.com)
-- Live Site URL: [Link to live site](https://your-live-site-url.com)
+- Solution URL: [Link to solution](https://github.com/OmarCypha700/Stats-preview-card-component)
+- Live Site URL: [Link to live site](https://statspreviewcypha.netlify.app)
 
 ## My process
 

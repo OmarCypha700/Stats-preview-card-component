@@ -63,8 +63,6 @@ img {
     filter: opacity(0.6) drop-shadow(0 0 0 hsl(277, 64%, 61%));
 }
 ```
-**It turns out it doesn't work in Mozila Firefox**
-
 ### Continued development
 
 I plan on learning more on css properties to produce sleeker designs in future projects.
@@ -75,3 +73,6 @@ I plan on learning more on css properties to produce sleeker designs in future p
 - Github - [@Omarcypha700](https://github.com/OmarCypha700)
 - Frontend Mentor - [@OmarCypha700](https://www.frontendmentor.io/profile/OmarCypha700)
 - Twitter - [@OmarCypha](https://www.twitter.com/OmarCypha)
+
+# Acknoledgement
+- Challenge by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge")
